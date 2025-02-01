@@ -46,7 +46,7 @@ your smart home and issue commands and get responses.
 5. Enter the IP address into a browser window and log onto the Grandstream *Device Configuration* software.
    - The default credentials are:
      - **Username**: `admin`
-     - **Password**: `admin`  
+     - **Password**: `admin`  (V2 is not admin, has password written on bottom of device)
    ![Login to Grandstream](/images/assist/grandstream_login.png)
 6. Open the **FXS Port** tab and in the **Offhook Auto-Dial** field, enter the Home Assistant IP address in the following format:
    - \*47192\*168\*1\*100\*5060
